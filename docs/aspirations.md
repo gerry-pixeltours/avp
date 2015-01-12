@@ -1,5 +1,7 @@
 # Aspirations
 
+** Our aspirations describe the kind of company we want to build. We achieve our aspirations by operating according to our values and principles. **
+
 ## Primaque Anaphen animal
 
 Lorem markdownum verba tam et plausus ferunt, et orbi. Sed per feruntur per
