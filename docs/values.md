@@ -1,14 +1,6 @@
 # Values
 
-## Ne non
-
-Lorem markdownum illic es, perque mora capulo? Exquirere nomina, vires Philemon
-proxima.
-
-Sit venis fueris inrorant reliquit e trahunt, mentem peregrina! Chordas Molpeus
-lacrimaeque veniam labori voce niteant sed; ordine rerum: quo caute! Querenti
-*in est* resumere spatium nemorum rogari, et tot consiliis ore; Procne. Omnes
-valles conspectos gaudet Priamidenque gravem. Talibus inclinarat, spicula.
+** Our values: They are the ways we choose to put our principles into action. They define who we are and how we operate. **
 
 ## Erat est Crocale suis
 
