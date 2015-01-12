@@ -1,23 +1,10 @@
 # Aspirations
 
-## Primaque Anaphen animal
+** Our aspirations describe the kind of company we want to build. We achieve our aspirations by operating according to our values and principles. **
 
-Lorem markdownum verba tam et plausus ferunt, et orbi. Sed per feruntur per
-nostro iram fraternaque **adit verbis aranea** in ferrea
-[medios](http://www.raynelongboards.com/) ver [amantes](http://example.com/),
-pharetram verba, festam.
+## Enrich All Within Our Circle of Influence
 
-## Quoque puer viam includite verbaque
-
-Virum dixit tibi fauces, ambos est dum ut primusque longa celebrare daturum,
-levabas avidum: Agenorides. Diemque summoveant iubasque lacertis. Et fores quod
-*quod* forma crescere silvis festum placidum Ilioneus; Troius iuvencos donec?
-
-1. Retinet inposuere ora facies popularia sua tibi
-2. Glande postquam quicquam tibi vobis Nessus quae
-3. Gurgite par dolosas siquid nido est vicinos
-4. Remos error regem
-5. Sed seu parenti
+We want a company that seeks to enrich the lives of all within our circle of influence: our employees, our families and our customers.
 
 ## Saeva quid perque
 
