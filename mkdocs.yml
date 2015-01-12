@@ -1,0 +1,7 @@
+site_name: PixelTours AVP
+pages:
+- [index.md, Home]
+- [aspirations.md, Aspirations]
+- [values.md, Values]
+- [principles.md, Principles]
+theme: flatly
